@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Activity 1: Basic HTML Bio</title>
+</head>
+
+<body>
+  <h1>Aaron</h1>
+  <a>
+    <img src="~/desktop/rooster.JPG" alt="A rooster">
+  </a>
+  <p>Hello my name is Aaron</p>
+  <p>I like coffee</p>
+  <ul>
+    <li><a href="https://www.facebook.com/aaron.rotman/">Facebook</a></li>
+    <li>https://github.com/aaronrotman/</li>
+  </ul>
+
+  <table>
+      
+      <th>
+        <th>Header</th>
+      </th>
+      
+      <tr>
+        <td>The hobbit</td>
+        <td>Lord of the Rings</td>
+      </tr>
+      <tr>
+        <td>There and back again</td>
+      </tr>
+  </table>
+</body>
+
+</html>
